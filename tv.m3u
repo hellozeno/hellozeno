@@ -13,3 +13,5 @@ https://list.iptvcat.com/my_list/s/05cdfe91b34c6c564a19bdc269746c4d.m3u8
 https://list.iptvcat.com/my_list/s/2607910268cb6b0513a9754c6be67696.m3u8
 #EXTINF:0,YANTEST
 http://etya-plus.com:8080/ertan07/ertan0707/6484
+#EXTINF:-1,YANTEST1
+http://etya-plus.com:8080/ertan07/ertan0707/6484
